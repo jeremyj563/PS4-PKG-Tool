@@ -52,7 +52,7 @@
     </Reference>
     <Reference Include="DarkUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Desktop\Active C# Projects\PS4 PKG Tool\DarkUI-master-master\DarkUI\bin\Debug\DarkUI.dll</HintPath>
+      <HintPath>..\Dependencies\DarkUI.dll</HintPath>
     </Reference>
     <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
       <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
@@ -64,16 +64,16 @@
       <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
     </Reference>
     <Reference Include="FlatTabControl">
-      <HintPath>..\..\..\..\Desktop\FlatTabControl_src\FlatTabControl\bin\Debug\FlatTabControl.dll</HintPath>
+      <HintPath>..\Dependencies\FlatTabControl.dll</HintPath>
     </Reference>
     <Reference Include="GitHubUpdate">
-      <HintPath>..\..\..\..\Desktop\Active C# Projects\PS4 PKG Tool\PS4-PKG-Tool-master\PS4 PKG Tool\bin\Debug\GitHubUpdate.dll</HintPath>
+      <HintPath>..\Dependencies\GitHubUpdate.dll</HintPath>
     </Reference>
     <Reference Include="HtmlAgilityPack.NetCore, Version=1.5.0.1, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\HtmlAgilityPack.NetCore.1.5.0.1\lib\net45\HtmlAgilityPack.NetCore.dll</HintPath>
     </Reference>
     <Reference Include="LibOrbisPkg">
-      <HintPath>..\..\..\..\Desktop\Active C# Projects\PS4 PKG Tool\PS4-PKG-Tool-master\PS4 PKG Tool\bin\Debug\LibOrbisPkg.dll</HintPath>
+      <HintPath>..\Dependencies\LibOrbisPkg.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Build.Framework" />
     <Reference Include="Microsoft.Build.Utilities.v4.0" />
@@ -82,14 +82,14 @@
       <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="PARAM.SFO">
-      <HintPath>..\..\..\..\Desktop\Active C# Projects\PS4 PKG Tool\PS4-PKG-Tool-master\PS4 PKG Tool\bin\Debug\PARAM.SFO.dll</HintPath>
+      <HintPath>..\Dependencies\PARAM.SFO.dll</HintPath>
     </Reference>
     <Reference Include="PS4_Tools, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Desktop\PS4_Tools-master (2)\PS4_Tools-master\PS4_Tools\bin\Debug\PS4_Tools.dll</HintPath>
+      <HintPath>..\Dependencies\PS4_Tools.dll</HintPath>
     </Reference>
     <Reference Include="Semver">
-      <HintPath>..\..\..\..\Desktop\Active C# Projects\PS4 PKG Tool\PS4-PKG-Tool-master\PS4 PKG Tool\bin\Debug\Semver.dll</HintPath>
+      <HintPath>..\Dependencies\Semver.dll</HintPath>
     </Reference>
     <Reference Include="SQLitePCLRaw.batteries_v2, Version=2.0.2.669, Culture=neutral, PublicKeyToken=8226ea5df37bcae9, processorArchitecture=MSIL">
       <HintPath>..\packages\SQLitePCLRaw.bundle_green.2.0.2\lib\net461\SQLitePCLRaw.batteries_v2.dll</HintPath>
